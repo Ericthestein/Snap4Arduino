@@ -1,4 +1,4 @@
-var extensionId = 'meajklokhjoflbimamdbhpdjlondmgpi',
+var extensionId = 'pndaofabljjgdfgpbnnlefcnfkhognhb',
     postal = new Postal(),
     firmata = {
         Board: function(port, callback) {

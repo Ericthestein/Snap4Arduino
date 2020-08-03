@@ -1,7 +1,7 @@
 {
-    "name": "Snap4Arduino connector",
-    "description": "Connect Berkeley Snap! to Arduino boards",
-    "version": "0.1",
+    "name": "Snap4Arduino-TuneScope connector",
+    "description": "Connect Berkeley Snap! to Arduino boards on tunescope.org",
+    "version": "1",
     "manifest_version": 2,
     "app": {
         "background": {
@@ -25,19 +25,18 @@
 
             "https://tunescope.org/*",
             "http://tunescope.org/*",
-            "https://tunescope.org",
-            "http://tunescope.org",
+            "https://tunescope.org/",
+            "http://tunescope.org/",
             "https://soundscope-website.web.app/*",
             "http://soundscope-website.web.app/*",
-            "https://soundscope-website.web.app",
-            "http://soundscope-website.web.app",
+            "https://soundscope-website.web.app/",
+            "http://soundscope-website.web.app/",
             "https://soundscope-website.firebaseapp.com/*",
             "http://soundscope-website.firebaseapp.com/*",
-            "https://soundscope-website.firebaseapp.com",
-            "http://soundscope-website.firebaseapp.com"
+            "https://soundscope-website.firebaseapp.com/",
+            "http://soundscope-website.firebaseapp.com/"
         ],
         "accepts_tls_channel_id": false
     },
-    "icons": { "16": "icon-16.png", "128": "icon-128.png" },
-    "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAryxXD9KBQe4/H/Xqpbj7Uz8V4pXtst4jb9olXllFRWQJbOx4OkTPkiF9Fmm5q4HCldD/XVuKOCGbiafdMlrZI2iRT2Jwr9UAf1VB0ajiqTUrSxzfn3Aiwa8LaiiAI3krmD8QyoCZTuxTsyIUMXCzIf4pVmgzanWmHX+lfu1TExXrmzsFy0BLOWFFJ8VPs/ArhoqoNRw3oLXczXcjbyRDMyhuj6/GYCJXOy/wwINLsXnJdhsyPPbsX3cin/tWnqb3a2ElY/tUsJdqK0RRF7aqJOLYIzWbegIQRcUsUwkTgZRaJkBbH+dLdG7J2yici2JZ12882mdU4mRSYOnuGN+lIwIDAQAB"
+    "icons": { "16": "icon-16.png", "128": "icon-128.png" }
 }
