@@ -21,7 +21,20 @@
             "http://snap4arduino.local/*",
             "http://snap4arduino.org/*",
             "http://snap4arduino.rocks/*",
-            "https://snap4arduino.rocks/*"
+            "https://snap4arduino.rocks/*",
+
+            "https://tunescope.org/*",
+            "http://tunescope.org/*",
+            "https://tunescope.org",
+            "http://tunescope.org",
+            "https://soundscope-website.web.app/*",
+            "http://soundscope-website.web.app/*",
+            "https://soundscope-website.web.app",
+            "http://soundscope-website.web.app",
+            "https://soundscope-website.firebaseapp.com/*",
+            "http://soundscope-website.firebaseapp.com/*",
+            "https://soundscope-website.firebaseapp.com",
+            "http://soundscope-website.firebaseapp.com"
         ],
         "accepts_tls_channel_id": false
     },
