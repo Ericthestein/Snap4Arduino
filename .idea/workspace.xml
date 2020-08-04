@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1deafbc1-99f5-47d0-8038-20fffb6c032c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/platforms/web/chromium/crx/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/platforms/web/chromium/crx/manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/platforms/web/chromium/root/plugin/plugin.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/platforms/web/chromium/root/plugin/plugin.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1596420853386</updated>
       <workItem from="1596420854548" duration="169000" />
-      <workItem from="1596421783279" duration="2790000" />
+      <workItem from="1596421783279" duration="3868000" />
     </task>
     <servers />
   </component>
